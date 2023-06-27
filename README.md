@@ -1,6 +1,6 @@
 ## COMMAND :
 
-[
+
 * `rm -rf BEST-UPD`
 
 * `git clone https://github.com/MR-META-404-CYBER/BEST-UPD.git`
